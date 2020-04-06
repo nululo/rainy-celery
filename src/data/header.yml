@@ -14,5 +14,5 @@ actions:
     is_primary: false
     is_scrolly: true
 img:
-  path: images/screen.jpg
+  path: ''
   phone_border: true
